@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **davidkhaling123@gmail.com**
 
-- 📄 Know about my experiences (i dont have any experience i am just a student cusious in learning new thing)
+- 📄 Know about my experiences (i don`t have any experience i am just a student curious in learning new thing)
 
 - ⚡ Fun fact **i am introvert to stangers**
 
