@@ -25,5 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-rai&show_icons=true&locale=en" alt="david-rai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david-rai&" alt="david-rai" /></p>
-
