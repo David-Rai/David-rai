@@ -2,7 +2,7 @@
 <h3 align="center">A newbie and curious tech learner</h3>
 
 
-- 🌱 I’m currently learning **Typescript and devops**
+- 🌱 I’m currently learning **Typescript , DevOps , RN & System Design**
 
 - 📝 I regularly write articles on [https://x.com/DavidRai625592](https://x.com/DavidRai625592)
 
